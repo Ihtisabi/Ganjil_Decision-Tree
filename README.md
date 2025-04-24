@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi menggunakan decision tree
 |            |           |           |           |           |
 |accuracy    |           |           |      0.81 |       300 |
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion matrix.png)
 
 Dari hasil evaluasi, model menunjukkan performa yang cukup baik dengan akurasi keseluruhan 81%.
 
